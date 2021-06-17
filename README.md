@@ -1,1 +1,1 @@
-# WeatherCoach
+# WeatherApp
