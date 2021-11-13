@@ -4,10 +4,11 @@ Stormy is a weather application which requests weather forecast data from an API
 This is an android application which is built using Java.
 
 ## Weather Updates Screen
-<img src="WeatherUpdatesScreen.jpeg" height="20%" width="40% ">
+<img src="https://user-images.githubusercontent.com/43718012/141651142-f554b1f0-9507-4fa2-a8b6-216188dd004a.png" height="20%" width="40% ">
+
 
 ## Hourly Forecast Screen
-<img src="HourlyForecastScreen.jpeg" height="20%" width="40% ">
+<img src="https://user-images.githubusercontent.com/43718012/141651156-0a89937e-4c79-4c25-b3f2-3cf19405b74c.png" height="20%" width="40% ">
 
 # Features
 - [x] Simple Design
